@@ -1,4 +1,4 @@
-##  Dask Task
+# Dask Task
 
 # Project Overview: Dask-Based Time Series Data Processing
 

@@ -44,6 +44,8 @@ Computes sum, difference, and product of numerical columns.
  Plots daily averages for a specific category (Category A).
 Uses Matplotlib to generate line charts.
 
+
+
 ## Performance Optimization
 
 Compares Dask vs. Pandas computation time for efficiency.

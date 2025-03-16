@@ -51,4 +51,5 @@ Uses Dask’s distributed computing for large datasets.
 
 ## Summary of this project
 
+![Image](https://github.com/user-attachments/assets/bdaea53c-d44e-4545-9bd9-bb33c7c207df)
 

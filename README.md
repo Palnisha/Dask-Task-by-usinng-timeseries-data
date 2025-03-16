@@ -44,7 +44,7 @@ Computes sum, difference, and product of numerical columns.
  Plots daily averages for a specific category (Category A).
 Uses Matplotlib to generate line charts.
 
-![Image](https://github.com/user-attachments/assets/5bb4fbe8-730a-45ab-956f-78b035bc32c1)
+![Image](https://github.com/user-attachments/assets/e67c1776-a380-4714-b990-5c671729f089)
 
 ## Performance Optimization
 

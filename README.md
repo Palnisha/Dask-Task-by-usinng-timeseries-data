@@ -1,4 +1,17 @@
 # Dask Task
+
+*COMPANAY* : CODTECH IT SOLUTION 
+
+*NAME* : NISHA PAL
+
+*INTERN ID* : CT6WKRM
+
+*DOMAIN* : DATA ANALYST
+
+*DURATION* : 8 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 # Dataset : Created a Dataset 
 
 # Project Overview: Dask-Based Time Series Data Processing
